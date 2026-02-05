@@ -76,9 +76,9 @@ Contributions are welcome! Feel free to:
 
 MIT License
 
-## 👤 Sharanya
+## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Sharanya - [GitHub](https://github.com/shar-rox)
 
 ---
 
