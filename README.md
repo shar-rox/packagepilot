@@ -17,7 +17,7 @@ As Python developers, we often know *what* we want to build but struggle to reme
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/packagepilot.git
+git clone https://github.com/shar-rox/packagepilot.git
 cd packagepilot
 
 # Create virtual environment
@@ -76,7 +76,7 @@ Contributions are welcome! Feel free to:
 
 MIT License
 
-## 👤 Author
+## 👤 Sharanya
 
 Your Name - [GitHub](https://github.com/yourusername)
 
