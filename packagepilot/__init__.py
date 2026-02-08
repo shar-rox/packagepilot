@@ -1,0 +1,6 @@
+"""
+PackagePilot - Your intelligent Python package discovery assistant
+"""
+
+__version__ = "0.1.0"
+__author__ = "Your Name"

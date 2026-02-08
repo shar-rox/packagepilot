@@ -1,0 +1,4 @@
+# Core dependencies - will add typer and rich later when network is available
+# For now, using built-in argparse and basic formatting
+# typer==0.9.0
+# rich==13.7.0
