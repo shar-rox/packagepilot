@@ -250,7 +250,7 @@ plt.show()""",
             "keywords": ["visualization", "statistical", "charts", "graphs"]
         },
         {
-            "package": Package(
+            "package": Package( 
                 id=None,
                 name="scikit-learn",
                 description="Machine learning library with classification, regression, clustering",
