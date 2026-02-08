@@ -6,8 +6,7 @@ First off, thank you for considering contributing to PackagePilot! 🎉
 
 ### 1. Add New Packages
 
-The easiest way to contribute! Edit `seed_database.py`:
-
+The easiest way to contribute! Edit `seed_database.py`: 
 ```python
 {
     "package": Package(
