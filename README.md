@@ -325,6 +325,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Educational project** - learn by building tools you actually use
 
 ---
+<img width="1920" height="1020" alt="Screenshot 2026-02-08 212343" src="https://github.com/user-attachments/assets/89a0a49b-0cef-4ce2-80c2-3927c472c1ca" />
 
 <p align="center">
   <b>⭐ Star this repo if you find it helpful!</b>
